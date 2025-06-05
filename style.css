@@ -1,0 +1,21 @@
+html{
+  background-image: url("./WhatsApp\ Image\ 2025-06-06\ at\ 04.50.45_f5fbf765.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+ 
+    
+*{
+    color: white;
+}
+p{
+    color: aliceblue;
+ 
+  text-shadow: 
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+}
